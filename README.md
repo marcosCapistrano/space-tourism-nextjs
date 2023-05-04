@@ -1,3 +1,7 @@
+# Check it Out!
+
+https://space-tourism-nextjs-ruddy.vercel.app/
+
 # Space Tourism: A collaboration between Frontend Mentor, Scrimba, and Kevin Powell
 
 This project is a collaboration between [Frontend Mentor](https://www.frontendmentor.io), [Scrimba](https://scrimba.com), and [Kevin Powell](https://youtube.com/kevinpowell).
